@@ -1,0 +1,12 @@
+C:\Users\abder\Desktop\CIRSA-backend\GameStatistics\GameStatistics.Contracts\bin\Debug\net7.0\GameStatistics.Contracts.deps.json
+C:\Users\abder\Desktop\CIRSA-backend\GameStatistics\GameStatistics.Contracts\bin\Debug\net7.0\GameStatistics.Contracts.dll
+C:\Users\abder\Desktop\CIRSA-backend\GameStatistics\GameStatistics.Contracts\bin\Debug\net7.0\GameStatistics.Contracts.pdb
+C:\Users\abder\Desktop\CIRSA-backend\GameStatistics\GameStatistics.Contracts\obj\Debug\net7.0\GameStatistics.Contracts.csproj.AssemblyReference.cache
+C:\Users\abder\Desktop\CIRSA-backend\GameStatistics\GameStatistics.Contracts\obj\Debug\net7.0\GameStatistics.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abder\Desktop\CIRSA-backend\GameStatistics\GameStatistics.Contracts\obj\Debug\net7.0\GameStatistics.Contracts.AssemblyInfoInputs.cache
+C:\Users\abder\Desktop\CIRSA-backend\GameStatistics\GameStatistics.Contracts\obj\Debug\net7.0\GameStatistics.Contracts.AssemblyInfo.cs
+C:\Users\abder\Desktop\CIRSA-backend\GameStatistics\GameStatistics.Contracts\obj\Debug\net7.0\GameStatistics.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\abder\Desktop\CIRSA-backend\GameStatistics\GameStatistics.Contracts\obj\Debug\net7.0\GameStatistics.Contracts.dll
+C:\Users\abder\Desktop\CIRSA-backend\GameStatistics\GameStatistics.Contracts\obj\Debug\net7.0\refint\GameStatistics.Contracts.dll
+C:\Users\abder\Desktop\CIRSA-backend\GameStatistics\GameStatistics.Contracts\obj\Debug\net7.0\GameStatistics.Contracts.pdb
+C:\Users\abder\Desktop\CIRSA-backend\GameStatistics\GameStatistics.Contracts\obj\Debug\net7.0\ref\GameStatistics.Contracts.dll

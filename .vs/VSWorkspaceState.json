@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GameStatistics",
+    "\\GameStatistics\\GameStatistics",
+    "\\GameStatistics\\GameStatistics\\Controllers",
+    "\\GameStatistics\\GameStatistics\\Database",
+    "\\GameStatistics\\GameStatistics\\Migrations",
+    "\\GameStatistics\\GameStatistics\\Models",
+    "\\GameStatistics\\GameStatistics\\Services\\GamesData",
+    "\\GameStatistics\\GameStatistics\\Tests"
+  ],
+  "SelectedNode": "\\GameStatistics\\GameStatistics\\Tests\\average-load-test.js",
+  "PreviewInSolutionExplorer": false
+}
